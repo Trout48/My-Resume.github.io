@@ -6258,7 +6258,7 @@ textarea.form-control-lg {
 }
 
 .spinner-grow-sm {
-  width: 1rem;
+  width: 2rem;
   height: 1rem;
 }
 
@@ -7380,7 +7380,7 @@ textarea.form-control-lg {
 }
 
 .mb-5 {
-  margin-bottom: 2rem !important;
+  margin-bottom: 3rem !important;
 }
 
 .mb-auto {
@@ -11405,7 +11405,7 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 section.resume-section {
